@@ -1,0 +1,29 @@
+body {
+  background-color: green;
+}
+h1 {
+  margin: 0 auto;
+  width: 500px;
+  color: white;
+  background-color: black;
+  text-align: center;
+}
+
+.box {
+  border: 5px solid red;
+  margin: 0 auto;
+  background-color: black;
+  color: white;
+  width: 1000px;
+  padding: 20px;
+  margin-top: 50px;
+}
+
+p {
+  margin: 0 auto;
+  margin-top: 10px;
+  color: black;
+  background-color: aqua;
+  padding: 20px;
+  width: 700px;
+}
